@@ -1,0 +1,1 @@
+Download and print it in paper of required size, make sure that the aruco is dark enough so that it could be recognised by camera.
